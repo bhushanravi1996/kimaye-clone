@@ -1,6 +1,7 @@
 # Kimaye.com-clone
 
-![Screenshot](<img width="960" alt="k1" src="https://user-images.githubusercontent.com/100188131/171993663-707887fe-e3d9-4c94-91ca-f60e26554a70.png">)
+<img width="960" alt="k1" src="https://user-images.githubusercontent.com/100188131/171993750-69797a40-d968-4e80-994d-13cddcd5baea.png">
+
 It is a web application to sell fresh fruits. To see different varieties of fruits you can
 visit the home page, shop, all fruits, fresh cuts, fruit combos. You can read the
 success story on our story page.
@@ -9,14 +10,16 @@ success story on our story page.
 <!-- <hr> -->
 - HTML, CSS, ReactJS
 
-- [Blog Link](https://medium.com/@chandutheruler3/technology-workforce-development-website-clone-ad865a7a8ebc)
-
+## Live app Link
+- https://roaring-torrone-e4165b.netlify.app/
 
 ## Features 
 <!-- --- -->
 - Add to cart functionality.
 - Login/Logout feature
 - Can add shipping address  
+
+
 
 ## Steps to navigate the website:
 <!-- <hr> -->
@@ -28,26 +31,19 @@ success story on our story page.
 
   ## Screenshots
   #### These are some screenshort for overview of website
-  -  platform where mens category available
-  ![Screenshot (68)](https://user-images.githubusercontent.com/94555507/167801102-e97d0d14-db8f-4725-99ec-f650a0439441.png)
-  - these are some trending items for kitchen and other
- ![Screenshot (71)](https://user-images.githubusercontent.com/94555507/167802134-dc07c785-b2d3-40dc-8a4c-f0c339107f05.png)
-  - there are simple sign up or sign in process
-![Screenshot (73)](https://user-images.githubusercontent.com/94555507/167802758-88eb8f14-67c1-4fa1-8073-b29f840fca9d.png)
- - sign in page /Resister pages for new costumor
- ![Screenshot (72)](https://user-images.githubusercontent.com/94555507/167802820-1e11f3a5-c493-414f-985c-660bff3d503d.png)
-  - simple ui for cart and place order
- ![Screenshot (70)](https://user-images.githubusercontent.com/94555507/167801867-cfb869c8-f909-4ebe-8501-4e97e799dc4e.png)
+  
+  <img width="960" alt="2022-06-04 (1)" src="https://user-images.githubusercontent.com/100188131/171993911-10353147-0492-4073-950b-5a3a119e233b.png">  
+  <img width="960" alt="2022-06-04 (2)" src="https://user-images.githubusercontent.com/100188131/171993931-1cd3adff-3dad-47a8-aa06-da08858fff63.png">
+  <img width="960" alt="2022-06-04 (3)" src="https://user-images.githubusercontent.com/100188131/171993967-25c6fdc9-ebe7-439c-8e2b-f807644cc8cb.png">
+  <img width="960" alt="2022-06-04 (4)" src="https://user-images.githubusercontent.com/100188131/171993977-a4b9f487-f2e7-43ec-b418-2271dfe3cfb4.png">
+  <img width="960" alt="2022-06-04 (5)" src="https://user-images.githubusercontent.com/100188131/171993979-5bd1ea9d-3a5d-4973-a3bd-45cab234caf0.png">
 
-   - Video Link: https://drive.google.com/file/d/1yyuSdCYOey9mYWW8Klyfjd0RKTP4SRVS/view?usp=sharing
-   - Netlify Link :https://sensational-frangipane-c21793.netlify.app/
-   - Medium Link:https://medium.com/@karinakhairnar/uboric-com-clone-4543c72bbfe9
    
-   ## Authors
+   ## Collaborators
 
-  1. [Manoj Bhise](https://github.com/manojbhise) 
-  2. [Swati Saulanki](https://github.com/swatisaulanki) 
-  3. [Sankalp Jaiswal](https://github.com/SankalpJaiswal) 
-  4. [Nirbhay Pratap Singh](https://github.com/NirbhayPratapSingh)
-  5. [Ravi Bhushan](https://github.com/bhushanravi1996)
+  * [Manoj Bhise](https://github.com/manojbhise) 
+  * [Swati Saulanki](https://github.com/swatisaulanki) 
+  * [Sankalp Jaiswal](https://github.com/SankalpJaiswal) 
+  * [Nirbhay Pratap Singh](https://github.com/NirbhayPratapSingh)
+  * [Ravi Bhushan](https://github.com/bhushanravi1996)
 
